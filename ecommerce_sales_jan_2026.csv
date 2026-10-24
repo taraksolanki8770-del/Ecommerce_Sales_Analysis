@@ -1,0 +1,392 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,City_Region,Product_Details,Category,Quantity,Unit_Price,Unit_Cost,Discount_Pct,Shipping_Cost,Payment_Method,Order_Status,Customer_Rating
+ORD-2026-50010,2026-01-01,CUST-1802,Consumer,Pune | West,ELEC-104 | Portable Bluetooth Speaker,Electronics,4,$60.00,28,0,4.99,Debit Card,Cancelled,
+ORD-2026-50001,2026-01-01,CUST-1372,Consumer,Bhubaneswar | East,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,4,110,50,,7.99,Debit Card,Delivered,5
+ORD-2026-50006,2026-01-01,CUST-1095,Consumer,Mumbai | West,HOME-202 | Adjustable Standing Desk Converter,Home & Office,2,160,85,10,0,Credit Card,Delivered,4
+ORD-2026-50004,2026-01-01,CUST-1036,Home Office,Hyderabad | South,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,$210.00,110,5,7.99,UPI,Returned,2
+ORD-2026-50008,2026-01-01,CUST-1807,Corporate,Bengaluru | South,HOME-202 | Adjustable Standing Desk Converter,Home & Office,2,160,85,,14.99,UPI,Delivered,3
+ORD-2026-50007,2026-01-01,CUST-1220,Consumer,Bengaluru | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,2,95,42,,9.99,UPI,Delivered,5
+ORD-2026-50003,2026-01-01,CUST-1525,Consumer,Bengaluru | South,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,$120.00,65,10,4.99,Net Banking,Delivered,4
+ORD-2026-50005,2026-01-01,CUST-1582,Consumer,Hyderabad | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,3,130,62,0,9.99,UPI,Delivered,3
+ORD-2026-50009,2026-01-01,CUST-1284,Corporate,Bengaluru | South,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,$120.00,65,,4.99,UPI,Delivered,3
+ORD-2026-50002,2026-01-01,CUST-1462,Consumer,Kolkata | East,ELEC-102 | Smart Fitness Watch Series 5,electronics,1,180,95,5,7.99,Cash on Delivery,Delivered,
+ORD-2026-50016,2026-01-02,CUST-1777,Home Office,Mumbai | West,HOME-202 | Adjustable Standing Desk Converter,HOME & OFFICE,2,160,85,5,0,UPI,Delivered,3
+ORD-2026-50019,2026-01-02,CUST-1503,Home Office,Mumbai | West,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,140,65,0,14.99,UPI,Delivered,5
+ORD-2026-50017,2026-01-02,CUST-1742,Consumer,Mumbai | West,HOME-202 | Adjustable Standing Desk Converter,Home & Office,2,160,85,15,4.99,Credit Card,Delivered,5
+ORD-2026-50020,2026-01-02,CUST-1181,Consumer,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,5,14.99,Credit Card,Delivered,
+ORD-2026-50018,2026-01-02,CUST-1445,CONSUMER,Hyderabad | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,15,4.99,Credit Card,Delivered,5
+ORD-2026-50011,2026-01-02,CUST-1524,Home Office,Bengaluru | South,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,1,140,65,10,9.99,Debit Card,Delivered,5
+ORD-2026-50012,2026-01-02,CUST-1756,  Corporate ,Ahmedabad | West,HOME-203 | Smart LED Desk Lamp,Home & Office,1,45,18,10,9.99,Credit Card,Delivered,4
+ORD-2026-50013,2026-01-02,CUST-1019,Corporate,Hyderabad | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,2,70,28,10,0,UPI,Delivered,4
+ORD-2026-50015,2026-01-02,CUST-1504,Home Office,Bengaluru | South,ELEC-101 | Wireless Noise-Canceling Headphones,ELECTRONICS,2,120,65,10,14.99,UPI,Delivered,4
+ORD-2026-50014,2026-01-02,CUST-1779,Consumer,Mumbai | West,WELL-402 | Smart Body Composition Scale,Health & Wellness,5,55,22,5,9.99,UPI,Delivered,4
+ORD-2026-50022,2026-01-02,CUST-1624,Corporate,Hyderabad | South,HOME-202 | Adjustable Standing Desk Converter,Home & Office,3,$160.00,85,20,4.99,UPI,Cancelled,
+ORD-2026-50021,2026-01-02,CUST-1058,Corporate,Jaipur | North,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,2,$95.00,42,5,4.99,UPI,Cancelled,
+ORD-2026-50026,2026-01-03,CUST-1794,Corporate,Jaipur | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,5,7.99,Credit Card,Delivered,5
+ORD-2026-50023,2026-01-03,CUST-1162,Consumer,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,2,120,65,15,0,Net Banking,Returned,1
+ORD-2026-50032,2026-01-03,CUST-1789,Consumer,Chennai | South,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,2,250,130,20,0,CASH ON DELIVERY,Delivered,
+ORD-2026-50031,2026-01-03,CUST-1568,Home Office,Jaipur | North,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,3,$130.00,62,10,14.99,CREDIT CARD,Delivered,4
+ORD-2026-50025,2026-01-03,CUST-1488,Consumer,Bengaluru | South,HOME-204 | HEPA Air Purifier Pro,HOME & OFFICE,2,210,110,0,9.99,UPI,Delivered,4
+ORD-2026-50024,2026-01-03,CUST-1629,  Consumer ,Pune | West,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,1,140,65,0,4.99,Credit Card,Delivered,4
+ORD-2026-50027,2026-01-03,CUST-1321,Corporate,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,  Health & Wellness ,4,130,62,5,14.99,Debit Card,Returned,
+ORD-2026-50030,2026-01-03,CUST-1488,CORPORATE,Chandigarh | North,ELEC-104 | Portable Bluetooth Speaker,Electronics,5,60,28,,4.99,UPI,Delivered,3
+ORD-2026-50029,2026-01-03,CUST-1440,Consumer,Bengaluru | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,$180.00,95,0,14.99,Credit Card,Delivered,5
+ORD-2026-50033,2026-01-03,CUST-1447,Home Office,Delhi NCR | North,WELL-402 | Smart Body Composition Scale,Health & Wellness,3,55,22,0,4.99,UPI,Delivered,5
+ORD-2026-50028,2026-01-03,CUST-1330,Consumer,Kolkata | East,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,1,110,50,5,14.99,UPI,Delivered,4
+ORD-2026-50043,2026-01-04,CUST-1218,Home Office,Jaipur | North,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,0,7.99,UPI,Delivered,4
+ORD-2026-50034,2026-01-04,CUST-1458,Consumer,Pune | West,ELEC-104 | Portable Bluetooth Speaker,Electronics,5,60,28,,4.99,UPI,Delivered,5
+ORD-2026-50040,2026-01-04,CUST-1704,Consumer,Ahmedabad | West,WELL-403 | Deep Tissue Massage Gun,health & wellness,2,140,65,,9.99,Net Banking,Delivered,
+ORD-2026-50037,2026-01-04,CUST-1776,Consumer,Pune | West,HOME-202 | Adjustable Standing Desk Converter,HOME & OFFICE,3,160,85,0,7.99,UPI,Delivered,3
+ORD-2026-50038,2026-01-04,CUST-1574,CONSUMER,Chennai | South,HOME-204 | HEPA Air Purifier Pro,Home & Office,4,210,110,0,0,CREDIT CARD,Delivered,5
+ORD-2026-50039,2026-01-04,CUST-1562,Corporate,Delhi NCR | North,WELL-402 | Smart Body Composition Scale,Health & Wellness,1,55,22,0,14.99,UPI,Delivered,4
+ORD-2026-50036,2026-01-04,CUST-1066,Home Office,Mumbai | West,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,,4.99,  Debit Card ,Delivered,3
+ORD-2026-50042,2026-01-04,CUST-1444,CONSUMER,Chandigarh | North,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,20,4.99,Net Banking,Delivered,5
+ORD-2026-50041,2026-01-04,CUST-1279,Consumer,Ahmedabad | West,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,1,140,65,5,0,  Credit Card ,Delivered,3
+ORD-2026-50044,2026-01-04,CUST-1157,Corporate,Hyderabad | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,10,4.99,upi,Delivered,4
+ORD-2026-50035,2026-01-04,CUST-1613,Consumer,Chennai | South,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,2,250,130,0,0,UPI,Delivered,5
+ORD-2026-50047,2026-01-05,CUST-1503,Corporate,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,-4,$180.00,95,15,14.99,Debit Card,Delivered,5
+ORD-2026-50046,2026-01-05,CUST-1461,Consumer,Bengaluru | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,$70.00,28,0,4.99,Credit Card,Delivered,5
+ORD-2026-50045,2026-01-05,CUST-1783,Corporate,Jaipur | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,4,$120.00,65,15,4.99,Debit Card,Delivered,4
+ORD-2026-50052,2026-01-05,CUST-1439,Home Office,Bengaluru | South,ELEC-103 | 4K Ultra HD Webcam,Electronics,1,85,40,0,9.99,Credit Card,Delivered,3
+ORD-2026-50048,2026-01-05,CUST-1566,Consumer,Delhi NCR | North,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,0,7.99,UPI,Returned,2
+ORD-2026-50050,2026-01-05,CUST-1730,  Consumer ,Hyderabad | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,4,180,95,20,7.99,NET BANKING,Delivered,5
+ORD-2026-50053,2026-01-05,CUST-1361,Home Office,Bengaluru | South,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,15,9.99,UPI,Delivered,4
+ORD-2026-50051,2026-01-05,CUST-1303,Corporate,Delhi NCR | North,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,5,7.99,UPI,Delivered,5
+ORD-2026-50049,2026-01-05,CUST-1558,Consumer,Delhi NCR | North,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,10,14.99,Credit Card,Delivered,5
+ORD-2026-50056,2026-01-06,CUST-1487,Consumer,Mumbai | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,,0,Credit Card,Delivered,3
+ORD-2026-50057,2026-01-06,CUST-1418,Home Office,Bengaluru | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,0,0,Credit Card,Delivered,5
+ORD-2026-50058,2026-01-06,CUST-1508,Consumer,Chandigarh | North,HOME-204 | HEPA Air Purifier Pro,  Home & Office ,2,210,110,5,4.99,Credit Card,Returned,3
+ORD-2026-50064,2026-01-06,CUST-1335,Corporate,Hyderabad | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,,14.99,Credit Card,Returned,1
+ORD-2026-50061,2026-01-06,CUST-1258,HOME OFFICE,Mumbai | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,0,9.99,  Credit Card ,Delivered,3
+ORD-2026-50060,2026-01-06,CUST-1679,Consumer,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,2,130,62,0,0,Net Banking,Delivered,3
+ORD-2026-50062,2026-01-06,CUST-1112,Consumer,Mumbai | West,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,10,0,UPI,Delivered,4
+ORD-2026-50063,2026-01-06,CUST-1016,HOME OFFICE,Kolkata | East,HOME-201 | Ergonomic Mesh Office Chair,  Home & Office ,2,250,130,0,7.99,UPI,Delivered,
+ORD-2026-50054,2026-01-06,CUST-1523,Corporate,Mumbai | West,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,4,95,42,15,0,UPI,Delivered,5
+ORD-2026-50055,2026-01-06,CUST-1770,Consumer,Delhi NCR | North,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,5,9.99,Credit Card,Delivered,4
+ORD-2026-50059,2026-01-06,CUST-1586,Consumer,Hyderabad | South,ELEC-104 | Portable Bluetooth Speaker,ELECTRONICS,3,60,28,0,9.99,UPI,Delivered,5
+ORD-2026-50073,2026-01-07,CUST-1172,Corporate,Mumbai | West,ELEC-104 | Portable Bluetooth Speaker,electronics,2,60,28,,0,Debit Card,Returned,1
+ORD-2026-50074,2026-01-07,CUST-1334,Consumer,Ahmedabad | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,4,$180.00,95,0,14.99,UPI,Delivered,4
+ORD-2026-50076,2026-01-07,CUST-1660,consumer,Bhubaneswar | East,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,2,$95.00,42,5,0,UPI,Delivered,3
+ORD-2026-50067,2026-01-07,CUST-1524,Consumer,Delhi NCR | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,0,7.99,UPI,Delivered,5
+ORD-2026-50070,2026-01-07,CUST-1379,Home Office,Jaipur | North,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,,4.99,UPI,Delivered,4
+ORD-2026-50069,2026-01-07,CUST-1169,Consumer,Delhi NCR | North,WELL-401 | High-Speed Blender & Smoothie Maker,HEALTH & WELLNESS,1,130,62,,14.99,UPI,Delivered,3
+ORD-2026-50068,2026-01-07,CUST-1228,Consumer,Hyderabad | South,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,120,65,10,4.99,UPI,Delivered,5
+ORD-2026-50075,2026-01-07,CUST-1633,Home Office,Hyderabad | South,ELEC-101 | Wireless Noise-Canceling Headphones,  Electronics ,2,120,65,10,7.99,UPI,Delivered,4
+ORD-2026-50066,2026-01-07,CUST-1018,  Consumer ,Hyderabad | South,WELL-402 | Smart Body Composition Scale,Health & Wellness,1,55,22,0,4.99,Debit Card,Delivered,4
+ORD-2026-50071,2026-01-07,CUST-1479,Consumer,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,120,65,0,0,Credit Card,Delivered,4
+ORD-2026-50065,2026-01-07,CUST-1248,Consumer,Pune | West,HOME-204 | HEPA Air Purifier Pro,Home & Office,2,210,110,,9.99,UPI,Delivered,5
+ORD-2026-50072,2026-01-07,CUST-1430,Consumer,Mumbai | West,ELEC-103 | 4K Ultra HD Webcam,Electronics,2,85,40,0,0,UPI,Returned,1
+ORD-2026-50077,2026-01-08,CUST-1693,Consumer,Delhi NCR | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,15,7.99,UPI,Delivered,4
+ORD-2026-50079,2026-01-08,CUST-1022,Consumer,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,15,0,UPI,Delivered,3
+ORD-2026-50078,2026-01-08,CUST-1294,Corporate,Bengaluru | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,2,$70.00,28,10,14.99,UPI,Delivered,4
+ORD-2026-50091,2026-01-08,CUST-1473,Corporate,Hyderabad | South,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,0,9.99,  UPI ,Delivered,5
+ORD-2026-50083,2026-01-08,CUST-1830,Consumer,Bengaluru | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,10,14.99,Net Banking,Delivered,4
+ORD-2026-50085,2026-01-08,CUST-1562,Consumer,Delhi NCR | North,ELEC-103 | 4K Ultra HD Webcam,Electronics,1,$85.00,40,10,7.99,UPI,Delivered,3
+ORD-2026-50080,2026-01-08,CUST-1108,Consumer,Bengaluru | South,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,140,65,10,7.99,Credit Card,Cancelled,
+ORD-2026-50082,2026-01-08,CUST-1765,Consumer,Hyderabad | South,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,0,4.99,UPI,Delivered,4
+ORD-2026-50090,2026-01-08,CUST-1546,Consumer,Kolkata | East,WELL-402 | Smart Body Composition Scale,Health & Wellness,1,55,22,5,14.99,UPI,Delivered,5
+ORD-2026-50091,2026-01-08,CUST-1473,Corporate,Hyderabad | South,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,0,9.99,  UPI ,Delivered,5
+ORD-2026-50087,2026-01-08,CUST-1583,  Consumer ,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,120,65,5,14.99,Credit Card,Delivered,
+ORD-2026-50084,2026-01-08,CUST-1813,Consumer,Jaipur | North,ELEC-101 | Wireless Noise-Canceling Headphones,electronics,1,120,65,10,7.99,UPI,Delivered,4
+ORD-2026-50086,2026-01-08,CUST-1292,consumer,Bengaluru | South,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,5,120,65,10,4.99,UPI,Delivered,5
+ORD-2026-50081,2026-01-08,CUST-1833,Home Office,Mumbai | West,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,$120.00,65,0,4.99,UPI,Delivered,3
+ORD-2026-50089,2026-01-08,CUST-1223,Corporate,Ahmedabad | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,0,0,Credit Card,Delivered,4
+ORD-2026-50088,2026-01-08,CUST-1399,Corporate,Chennai | South,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,140,65,0,14.99,UPI,Delivered,5
+ORD-2026-50094,2026-01-09,CUST-1775,Consumer,Chandigarh | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,0,14.99,UPI,Delivered,4
+ORD-2026-50095,2026-01-09,CUST-1107,Corporate,Hyderabad | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,10,14.99,Credit Card,Returned,2
+ORD-2026-50102,2026-01-09,CUST-1788,Consumer,Bengaluru | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,2,95,42,5,4.99,Credit Card,Delivered,5
+ORD-2026-50105,2026-01-09,CUST-1583,Consumer,Bengaluru | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,0,0,UPI,Delivered,5
+ORD-2026-50104,2026-01-09,CUST-1309,Consumer,Chandigarh | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,,14.99,Cash on Delivery,Delivered,5
+ORD-2026-50093,2026-01-09,CUST-1307,Corporate,Hyderabad | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,4,70,28,5,9.99,UPI,Delivered,4
+ORD-2026-50097,2026-01-09,CUST-1742,Consumer,Mumbai | West,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,0,14.99,Debit Card,Delivered,5
+ORD-2026-50098,2026-01-09,CUST-1825,Consumer,Jaipur | North,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,4,250,130,5,7.99,UPI,Delivered,4
+ORD-2026-50096,2026-01-09,CUST-1803,Consumer,Bengaluru | South,ELEC-103 | 4K Ultra HD Webcam,Electronics,2,85,40,10,7.99,UPI,Delivered,4
+ORD-2026-50101,2026-01-09,CUST-1139,Corporate,Chennai | South,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,4,110,50,15,0,UPI,Delivered,5
+ORD-2026-50099,2026-01-09,CUST-1170,consumer,Hyderabad | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,2,130,62,15,14.99,Credit Card,Cancelled,
+ORD-2026-50092,2026-01-09,CUST-1678,Consumer,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,3,180,95,10,9.99,UPI,Delivered,4
+ORD-2026-50100,2026-01-09,CUST-1602,corporate,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,4,180,95,20,14.99,UPI,Delivered,4
+ORD-2026-50103,2026-01-09,CUST-1456,Consumer,Hyderabad | South,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,0,4.99,UPI,Delivered,3
+ORD-2026-50114,2026-01-10,CUST-1426,Corporate,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,3,$130.00,62,0,0,UPI,Delivered,5
+ORD-2026-50109,2026-01-10,CUST-1464,Consumer,Kolkata | East,ELEC-103 | 4K Ultra HD Webcam,ELECTRONICS,4,$85.00,40,,7.99,UPI,Delivered,3
+ORD-2026-50119,2026-01-10,CUST-1230,Corporate,Jaipur | North,APPR-302 | Waterproof Hiking Backpack 40L,apparel & gear,2,$110.00,50,,4.99,UPI,Delivered,4
+ORD-2026-50117,2026-01-10,CUST-1747,Consumer,Chandigarh | North,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,10,4.99,Debit Card,Delivered,5
+ORD-2026-50115,2026-01-10,CUST-1321,Consumer,Jaipur | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,10,14.99,Credit Card,Delivered,5
+ORD-2026-50111,2026-01-10,CUST-1397,Consumer,Jaipur | North,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,2,250,130,0,9.99,UPI,Delivered,5
+ORD-2026-50110,2026-01-10,CUST-1644,Consumer,Mumbai | West,WELL-402 | Smart Body Composition Scale,health & wellness,2,55,22,,7.99,UPI,Delivered,5
+ORD-2026-50120,2026-01-10,CUST-1678,Consumer,Delhi NCR | North,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,0,9.99,UPI,Delivered,5
+ORD-2026-50112,2026-01-10,CUST-1807,Home Office,Hyderabad | South,HOME-203 | Smart LED Desk Lamp,Home & Office,4,$45.00,18,5,4.99,Credit Card,Delivered,4
+ORD-2026-50113,2026-01-10,CUST-1683,Consumer,Ahmedabad | West,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,120,65,10,4.99,  Credit Card ,Returned,2
+ORD-2026-50118,2026-01-10,CUST-1339,Consumer,Delhi NCR | North,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,140,65,0,4.99,UPI,Returned,1
+ORD-2026-50116,2026-01-10,CUST-1541,Corporate,Mumbai | West,APPR-302 | Waterproof Hiking Backpack 40L,apparel & gear,2,110,50,5,14.99,Debit Card,Delivered,
+ORD-2026-50121,2026-01-10,CUST-1393,Corporate,Pune | West,HOME-202 | Adjustable Standing Desk Converter,Home & Office,5,160,85,,0,UPI,Delivered,4
+ORD-2026-50108,2026-01-10,CUST-1397,  Corporate ,Chennai | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,,4.99,Credit Card,Delivered,5
+ORD-2026-50106,2026-01-10,CUST-1086,Home Office,Mumbai | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,$180.00,95,15,4.99,Credit Card,Delivered,4
+ORD-2026-50122,2026-01-10,CUST-1541,HOME OFFICE,Delhi NCR | North,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,$130.00,62,10,9.99,UPI,Delivered,4
+ORD-2026-50107,2026-01-10,CUST-1458,Consumer,Bengaluru | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,2,70,28,0,7.99,Credit Card,Returned,2
+ORD-2026-50125,2026-01-11,CUST-1605,Consumer,Mumbai | West,WELL-402 | Smart Body Composition Scale,Health & Wellness,2,$55.00,22,,7.99,UPI,Delivered,4
+ORD-2026-50127,2026-01-11,CUST-1519,Consumer,Jaipur | North,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,$140.00,65,15,0,UPI,Cancelled,
+ORD-2026-50124,2026-01-11,CUST-1256,Consumer,Hyderabad | South,APPR-303 | Compression Gym Activewear Set,apparel & gear,2,70,28,,14.99,Credit Card,Returned,2
+ORD-2026-50123,2026-01-11,CUST-1011,Home Office,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,electronics,1,$120.00,65,10,9.99,Credit Card,Delivered,5
+ORD-2026-50126,2026-01-11,CUST-1701,CORPORATE,Chennai | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,0,7.99,UPI,Cancelled,
+ORD-2026-50130,2026-01-11,CUST-1347,Consumer,Bengaluru | South,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,1,110,50,0,0,Debit Card,Delivered,5
+ORD-2026-50128,2026-01-11,CUST-1275,Home Office,Hyderabad | South,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,2,120,65,10,9.99,Debit Card,Delivered,4
+ORD-2026-50129,2026-01-11,CUST-1285,consumer,Bengaluru | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,5,7.99,Net Banking,Delivered,4
+ORD-2026-50131,2026-01-11,CUST-1785,HOME OFFICE,Jaipur | North,HOME-204 | HEPA Air Purifier Pro,Home & Office,2,$210.00,110,15,0,Net Banking,Delivered,4
+ORD-2026-50132,2026-01-12,CUST-1345,Consumer,Ahmedabad | West,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,5,70,28,5,7.99,Debit Card,Delivered,3
+ORD-2026-50141,2026-01-12,CUST-1302,Consumer,Mumbai | West,HOME-202 | Adjustable Standing Desk Converter,home & office,3,160,85,10,14.99,Credit Card,Delivered,3
+ORD-2026-50138,2026-01-12,CUST-1741,Consumer,Delhi NCR | North,ELEC-103 | 4K Ultra HD Webcam,electronics,2,85,40,0,9.99,UPI,Delivered,4
+ORD-2026-50140,2026-01-12,CUST-1775,Consumer,Chandigarh | North,WELL-402 | Smart Body Composition Scale,HEALTH & WELLNESS,2,55,22,10,7.99,Credit Card,Delivered,4
+ORD-2026-50133,2026-01-12,CUST-1480,Consumer,Jaipur | North,HOME-202 | Adjustable Standing Desk Converter,Home & Office,1,160,85,0,4.99,Debit Card,Delivered,5
+ORD-2026-50142,2026-01-12,CUST-1449,Corporate,Hyderabad | South,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,1,$140.00,65,10,9.99,Net Banking,Delivered,3
+ORD-2026-50144,2026-01-12,CUST-1792,Home Office,Jaipur | North,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,5,130,62,5,9.99,UPI,Returned,1
+ORD-2026-50137,2026-01-12,CUST-1063,Corporate,Ahmedabad | West,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,0,14.99,Debit Card,Delivered,4
+ORD-2026-50134,2026-01-12,CUST-1091,Consumer,Delhi NCR | North,HOME-203 | Smart LED Desk Lamp,Home & Office,1,45,18,10,7.99,UPI,Returned,2
+ORD-2026-50143,2026-01-12,CUST-1091,Corporate,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,15,0,DEBIT CARD,Delivered,4
+ORD-2026-50139,2026-01-12,CUST-1536,Home Office,Delhi NCR | North,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,2,250,130,10,0,UPI,Delivered,5
+ORD-2026-50136,2026-01-12,CUST-1336,Home Office,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,$180.00,95,0,9.99,Debit Card,Delivered,4
+ORD-2026-50135,2026-01-12,CUST-1524,Corporate,Jaipur | North,ELEC-101 | Wireless Noise-Canceling Headphones,electronics,1,120,65,0,14.99,UPI,Delivered,3
+ORD-2026-50154,2026-01-13,CUST-1812,Consumer,Hyderabad | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,2,95,42,0,4.99,Credit Card,Delivered,4
+ORD-2026-50149,2026-01-13,CUST-1754,Corporate,Pune | West,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,1,110,50,10,9.99,Credit Card,Delivered,3
+ORD-2026-50156,2026-01-13,CUST-1286,Consumer,Jaipur | North,HOME-204 | HEPA Air Purifier Pro,  Home & Office ,2,210,110,5,14.99,Credit Card,Delivered,4
+ORD-2026-50153,2026-01-13,CUST-1554,Corporate,Hyderabad | South,WELL-402 | Smart Body Composition Scale,Health & Wellness,2,55,22,10,4.99,UPI,Delivered,5
+ORD-2026-50146,2026-01-13,CUST-1244,Corporate,Hyderabad | South,HOME-204 | HEPA Air Purifier Pro,Home & Office,4,210,110,5,4.99,UPI,Delivered,5
+ORD-2026-50151,2026-01-13,CUST-1115,Consumer,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,  Health & Wellness ,2,130,62,5,9.99,UPI,Delivered,3
+ORD-2026-50148,2026-01-13,CUST-1067,Consumer,Jaipur | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,10,7.99,Cash on Delivery,Delivered,4
+ORD-2026-50145,2026-01-13,CUST-1377,Consumer,Mumbai | West,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,$70.00,28,5,0,UPI,Delivered,5
+ORD-2026-50147,2026-01-13,CUST-1196,Corporate,Chandigarh | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,5,14.99,Credit Card,Returned,2
+ORD-2026-50155,2026-01-13,CUST-1550,Consumer,Bhubaneswar | East,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,0,0,UPI,Delivered,5
+ORD-2026-50150,2026-01-13,CUST-1837,Corporate,Delhi NCR | North,WELL-402 | Smart Body Composition Scale,HEALTH & WELLNESS,4,55,22,0,0,UPI,Delivered,4
+ORD-2026-50152,2026-01-13,CUST-1487,Consumer,Pune | West,HOME-203 | Smart LED Desk Lamp,  Home & Office ,2,45,18,5,9.99,Net Banking,Delivered,4
+ORD-2026-50166,2026-01-14,CUST-1375,Corporate,Kolkata | East,APPR-303 | Compression Gym Activewear Set,apparel & gear,2,70,28,0,14.99,UPI,Returned,1
+ORD-2026-50173,2026-01-14,CUST-1739,Corporate,Delhi NCR | North,ELEC-104 | Portable Bluetooth Speaker,Electronics,2,$60.00,28,,0,Debit Card,Delivered,4
+ORD-2026-50159,2026-01-14,CUST-1065,Consumer,Ahmedabad | West,HOME-203 | Smart LED Desk Lamp,Home & Office,1,$45.00,18,0,14.99,Credit Card,Delivered,4
+ORD-2026-50164,2026-01-14,CUST-1192,Home Office,Jaipur | North,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,60,28,,4.99,UPI,Delivered,4
+ORD-2026-50169,2026-01-14,CUST-1409,Corporate,Mumbai | West,ELEC-103 | 4K Ultra HD Webcam,Electronics,1,85,40,10,4.99,UPI,Delivered,4
+ORD-2026-50158,2026-01-14,CUST-1167,Consumer,Kolkata | East,WELL-402 | Smart Body Composition Scale,Health & Wellness,1,55,22,5,7.99,UPI,Delivered,5
+ORD-2026-50168,2026-01-14,CUST-1842,Corporate,Bhubaneswar | East,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,5,7.99,Net Banking,Delivered,4
+ORD-2026-50165,2026-01-14,CUST-1720,consumer,Mumbai | West,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,120,65,10,4.99,Credit Card,Delivered,3
+ORD-2026-50160,2026-01-14,CUST-1484,Consumer,Kolkata | East,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,1,140,65,,9.99,Net Banking,Delivered,4
+ORD-2026-50171,2026-01-14,CUST-1841,Consumer,Hyderabad | South,APPR-301 | Thermal Winter Running Jacket,  Apparel & Gear ,1,95,42,5,0,UPI,Delivered,
+ORD-2026-50172,2026-01-14,CUST-1010,Corporate,Hyderabad | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,5,9.99,UPI,Delivered,5
+ORD-2026-50163,2026-01-14,CUST-1076,consumer,Mumbai | West,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,3,95,42,20,7.99,UPI,Cancelled,
+ORD-2026-50157,2026-01-14,CUST-1783,Home Office,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,15,7.99,UPI,Delivered,5
+ORD-2026-50162,2026-01-14,CUST-1744,Corporate,Mumbai | West,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,$120.00,65,0,4.99,UPI,Delivered,4
+ORD-2026-50167,2026-01-14,CUST-1576,Home Office,Hyderabad | South,HOME-202 | Adjustable Standing Desk Converter,Home & Office,1,160,85,5,0,Cash on Delivery,Delivered,4
+ORD-2026-50170,2026-01-14,CUST-1490,Consumer,Pune | West,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,60,28,0,9.99,CASH ON DELIVERY,Delivered,4
+ORD-2026-50161,2026-01-14,CUST-1430,Corporate,Mumbai | West,HOME-204 | HEPA Air Purifier Pro,Home & Office,2,210,110,10,14.99,Credit Card,Returned,2
+ORD-2026-50182,2026-01-15,CUST-1427,Consumer,Delhi NCR | North,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,5,$250.00,130,10,0,Credit Card,Delivered,4
+ORD-2026-50181,2026-01-15,CUST-1307,Home Office,Mumbai | West,HOME-203 | Smart LED Desk Lamp,Home & Office,1,45,18,0,0,upi,Delivered,4
+ORD-2026-50177,2026-01-15,CUST-1836,  Home Office ,Delhi NCR | North,ELEC-104 | Portable Bluetooth Speaker,Electronics,2,$60.00,28,10,4.99,Credit Card,Cancelled,
+ORD-2026-50176,2026-01-15,CUST-1384,Consumer,Bengaluru | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,3,180,95,0,9.99,Cash on Delivery,Delivered,4
+ORD-2026-50174,2026-01-15,CUST-1545,Consumer,Bengaluru | South,HOME-201 | Ergonomic Mesh Office Chair,  Home & Office ,1,250,130,0,14.99,UPI,Delivered,5
+ORD-2026-50178,2026-01-15,CUST-1454,  Consumer ,Jaipur | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,0,7.99,UPI,Delivered,4
+ORD-2026-50180,2026-01-15,CUST-1772,CONSUMER,Jaipur | North,HOME-204 | HEPA Air Purifier Pro,Home & Office,3,210,110,,14.99,UPI,Delivered,4
+ORD-2026-50179,2026-01-15,CUST-1068,home office,Bengaluru | South,WELL-403 | Deep Tissue Massage Gun,  Health & Wellness ,2,140,65,0,14.99,UPI,Delivered,4
+ORD-2026-50175,2026-01-15,CUST-1581,corporate,Delhi NCR | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,3,70,28,,0,UPI,Delivered,5
+ORD-2026-50183,2026-01-16,CUST-1249,Consumer,Jaipur | North,ELEC-102 | Smart Fitness Watch Series 5,ELECTRONICS,1,180,95,20,9.99,Credit Card,Returned,2
+ORD-2026-50184,2026-01-16,CUST-1082,Corporate,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,2,$120.00,65,0,14.99,  Debit Card ,Returned,2
+ORD-2026-50186,2026-01-16,CUST-1743,Home Office,Bengaluru | South,HOME-201 | Ergonomic Mesh Office Chair,home & office,1,$250.00,130,5,7.99,Credit Card,Returned,2
+ORD-2026-50185,2026-01-16,CUST-1733,Home Office,Mumbai | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,,0,UPI,Delivered,4
+ORD-2026-50187,2026-01-16,CUST-1080,Consumer,Hyderabad | South,HOME-202 | Adjustable Standing Desk Converter,Home & Office,2,160,85,0,7.99,Net Banking,Delivered,4
+ORD-2026-50191,2026-01-16,CUST-1308,Corporate,Hyderabad | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,5,4.99,UPI,Delivered,5
+ORD-2026-50190,2026-01-16,CUST-1795,  Consumer ,Mumbai | West,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,4,$95.00,42,5,4.99,cash on delivery,Delivered,5
+ORD-2026-50188,2026-01-16,CUST-1057,Home Office,Jaipur | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,5,70,28,5,7.99,UPI,Delivered,4
+ORD-2026-50189,2026-01-16,CUST-1697,CONSUMER,Chennai | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,10,14.99,UPI,Delivered,5
+ORD-2026-50195,2026-01-17,CUST-1425,Consumer,Bengaluru | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,5,14.99,Debit Card,Delivered,4
+ORD-2026-50197,2026-01-17,CUST-1521,Consumer,Delhi NCR | North,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,5,250,130,0,7.99,Debit Card,Delivered,4
+ORD-2026-50199,2026-01-17,CUST-1829,Consumer,Bhubaneswar | East,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,$60.00,28,5,0,Credit Card,Delivered,4
+ORD-2026-50193,2026-01-17,CUST-1013,Consumer,Bengaluru | South,ELEC-103 | 4K Ultra HD Webcam,Electronics,3,$85.00,40,20,9.99,Credit Card,Delivered,4
+ORD-2026-50194,2026-01-17,CUST-1073,Home Office,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,10,4.99,credit card,Delivered,4
+ORD-2026-50196,2026-01-17,CUST-1842,  Corporate ,Chandigarh | North,WELL-402 | Smart Body Composition Scale,Health & Wellness,5,$55.00,22,0,14.99,UPI,Delivered,5
+ORD-2026-50200,2026-01-17,CUST-1515,CORPORATE,Bengaluru | South,HOME-202 | Adjustable Standing Desk Converter,Home & Office,3,160,85,,9.99,Credit Card,Delivered,3
+ORD-2026-50198,2026-01-17,CUST-1736,Home Office,Delhi NCR | North,HOME-202 | Adjustable Standing Desk Converter,Home & Office,3,$160.00,85,0,7.99,  UPI ,Cancelled,
+ORD-2026-50201,2026-01-17,CUST-1843,Corporate,Delhi NCR | North,HOME-201 | Ergonomic Mesh Office Chair,  Home & Office ,4,$250.00,130,0,7.99,UPI,Delivered,4
+ORD-2026-50192,2026-01-17,CUST-1134,Consumer,Kolkata | East,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,0,9.99,Credit Card,Delivered,4
+ORD-2026-50203,2026-01-18,CUST-1518,Consumer,Delhi NCR | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,$70.00,28,5,7.99,Net Banking,Delivered,5
+ORD-2026-50204,2026-01-18,CUST-1487,Home Office,Mumbai | West,ELEC-104 | Portable Bluetooth Speaker,  Electronics ,3,$60.00,28,0,7.99,Debit Card,Delivered,
+ORD-2026-50205,2026-01-18,CUST-1748,Consumer,Jaipur | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,$180.00,95,10,4.99,UPI,Delivered,5
+ORD-2026-50207,2026-01-18,CUST-1212,Consumer,Mumbai | West,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,1,110,50,,7.99,UPI,Delivered,4
+ORD-2026-50202,2026-01-18,CUST-1264,Corporate,Pune | West,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,4,140,65,,7.99,Debit Card,Delivered,4
+ORD-2026-50206,2026-01-18,CUST-1044,Corporate,Bhubaneswar | East,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,0,7.99,UPI,Delivered,4
+ORD-2026-50209,2026-01-19,CUST-1198,Consumer,Mumbai | West,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,$120.00,65,0,14.99,Credit Card,Returned,1
+ORD-2026-50211,2026-01-19,CUST-1256,Home Office,Mumbai | West,ELEC-103 | 4K Ultra HD Webcam,ELECTRONICS,1,85,40,,9.99,UPI,Delivered,
+ORD-2026-50210,2026-01-19,CUST-1693,  Consumer ,Delhi NCR | North,HOME-203 | Smart LED Desk Lamp,Home & Office,1,45,18,,4.99,UPI,Delivered,3
+ORD-2026-50212,2026-01-19,CUST-1039,Corporate,Chandigarh | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,$180.00,95,0,14.99,UPI,Delivered,4
+ORD-2026-50214,2026-01-19,CUST-1321,consumer,Delhi NCR | North,HOME-203 | Smart LED Desk Lamp,  Home & Office ,1,45,18,5,14.99,Credit Card,Returned,1
+ORD-2026-50216,2026-01-19,CUST-1392,Consumer,Bhubaneswar | East,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,5,4.99,Credit Card,Delivered,5
+ORD-2026-50217,2026-01-19,CUST-1203,Consumer,Delhi NCR | North,WELL-402 | Smart Body Composition Scale,Health & Wellness,3,$55.00,22,15,4.99,UPI,Returned,2
+ORD-2026-50208,2026-01-19,CUST-1539,Corporate,Hyderabad | South,WELL-403 | Deep Tissue Massage Gun,HEALTH & WELLNESS,1,140,65,,4.99,UPI,Delivered,4
+ORD-2026-50213,2026-01-19,CUST-1119,Consumer,Chandigarh | North,HOME-204 | HEPA Air Purifier Pro,Home & Office,2,$210.00,110,5,14.99,Credit Card,Delivered,5
+ORD-2026-50215,2026-01-19,CUST-1645,Consumer,Bengaluru | South,HOME-203 | Smart LED Desk Lamp,HOME & OFFICE,1,$45.00,18,5,9.99,Debit Card,Delivered,4
+ORD-2026-50224,2026-01-20,CUST-1318,Consumer,Hyderabad | South,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,20,7.99,UPI,Delivered,
+ORD-2026-50220,2026-01-20,CUST-1503,  Consumer ,Pune | West,HOME-203 | Smart LED Desk Lamp,Home & Office,2,45,18,20,0,Credit Card,Delivered,
+ORD-2026-50226,2026-01-20,CUST-1135,Consumer,Mumbai | West,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,140,65,20,0,Debit Card,Delivered,5
+ORD-2026-50229,2026-01-20,CUST-1642,Consumer,Hyderabad | South,ELEC-103 | 4K Ultra HD Webcam,Electronics,1,85,40,20,9.99,Debit Card,Delivered,5
+ORD-2026-50221,2026-01-20,CUST-1486,Consumer,Mumbai | West,HOME-202 | Adjustable Standing Desk Converter,Home & Office,1,160,85,,0,UPI,Delivered,4
+ORD-2026-50223,2026-01-20,CUST-1080,Consumer,Chennai | South,WELL-401 | High-Speed Blender & Smoothie Maker,HEALTH & WELLNESS,1,130,62,20,14.99,UPI,Delivered,5
+ORD-2026-50228,2026-01-20,CUST-1811,Home Office,Jaipur | North,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,5,130,62,25,14.99,Credit Card,Delivered,5
+ORD-2026-50219,2026-01-20,CUST-1454,Corporate,Bengaluru | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,4,130,62,25,9.99,Credit Card,Delivered,5
+ORD-2026-50230,2026-01-20,CUST-1791,Consumer,Mumbai | West,HOME-203 | Smart LED Desk Lamp,Home & Office,3,45,18,15,9.99,UPI,Delivered,5
+ORD-2026-50225,2026-01-20,CUST-1645,Consumer,Chennai | South,HOME-202 | Adjustable Standing Desk Converter,Home & Office,2,$160.00,85,20,7.99,Net Banking,Delivered,5
+ORD-2026-50222,2026-01-20,CUST-1283,  Consumer ,Mumbai | West,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,10,0,Credit Card,Delivered,5
+ORD-2026-50227,2026-01-20,CUST-1748,Consumer,Bengaluru | South,WELL-401 | High-Speed Blender & Smoothie Maker,HEALTH & WELLNESS,2,$130.00,62,20,0,Credit Card,Delivered,5
+ORD-2026-50218,2026-01-20,CUST-1357,Consumer,Bengaluru | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,2,70,28,15,4.99,credit card,Delivered,
+ORD-2026-50233,2026-01-21,CUST-1775,Home Office,Hyderabad | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,5,70,28,20,7.99,Cash on Delivery,Returned,2
+ORD-2026-50246,2026-01-21,CUST-1440,Consumer,Chennai | South,APPR-301 | Thermal Winter Running Jacket,APPAREL & GEAR,1,95,42,20,0,Debit Card,Delivered,5
+ORD-2026-50232,2026-01-21,CUST-1172,Consumer,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,ELECTRONICS,2,120,65,25,4.99,UPI,Delivered,3
+ORD-2026-50239,2026-01-21,CUST-1408,Home Office,Pune | West,WELL-401 | High-Speed Blender & Smoothie Maker,health & wellness,1,130,62,15,0,UPI,Delivered,
+ORD-2026-50240,2026-01-21,CUST-1354,Home Office,Mumbai | West,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,120,65,20,9.99,UPI,Delivered,4
+ORD-2026-50238,2026-01-21,CUST-1587,home office,Ahmedabad | West,WELL-402 | Smart Body Composition Scale,HEALTH & WELLNESS,3,55,22,15,14.99,UPI,Delivered,5
+ORD-2026-50235,2026-01-21,CUST-1500,Corporate,Bengaluru | South,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,60,28,20,0,UPI,Delivered,5
+ORD-2026-50234,2026-01-21,CUST-1086,consumer,Hyderabad | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,15,14.99,Credit Card,Delivered,5
+ORD-2026-50245,2026-01-21,CUST-1214,Consumer,Jaipur | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,2,120,65,20,0,Net Banking,Delivered,4
+ORD-2026-50243,2026-01-21,CUST-1641,Home Office,Jaipur | North,ELEC-102 | Smart Fitness Watch Series 5,ELECTRONICS,5,180,95,10,9.99,UPI,Delivered,4
+ORD-2026-50241,2026-01-21,CUST-1635,Home Office,Bengaluru | South,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,10,7.99,UPI,Cancelled,
+ORD-2026-50231,2026-01-21,CUST-1413,Corporate,Mumbai | West,ELEC-103 | 4K Ultra HD Webcam,Electronics,2,85,40,15,9.99,UPI,Delivered,4
+ORD-2026-50237,2026-01-21,CUST-1086,Consumer,Ahmedabad | West,WELL-403 | Deep Tissue Massage Gun,  Health & Wellness ,2,140,65,20,7.99,UPI,Delivered,4
+ORD-2026-50242,2026-01-21,CUST-1334,CONSUMER,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,120,65,10,14.99,UPI,Delivered,5
+ORD-2026-50244,2026-01-21,CUST-1598,Consumer,Hyderabad | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,3,70,28,15,7.99,UPI,Delivered,4
+ORD-2026-50236,2026-01-21,CUST-1049,Corporate,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,20,7.99,UPI,Delivered,4
+ORD-2026-50247,2026-01-22,CUST-1050,Corporate,Bhubaneswar | East,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,$70.00,28,15,14.99,Cash on Delivery,Delivered,5
+ORD-2026-50259,2026-01-22,CUST-1107,Consumer,Hyderabad | South,APPR-302 | Waterproof Hiking Backpack 40L,APPAREL & GEAR,2,110,50,20,9.99,Debit Card,Delivered,5
+ORD-2026-50251,2026-01-22,CUST-1750,Consumer,Bengaluru | South,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,1,$110.00,50,10,4.99,Debit Card,Returned,3
+ORD-2026-50262,2026-01-22,CUST-1118,Consumer,Hyderabad | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,2,$130.00,62,10,4.99,UPI,Delivered,5
+ORD-2026-50250,2026-01-22,CUST-1699,Consumer,Ahmedabad | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,4,180,95,,0,Credit Card,Delivered,4
+ORD-2026-50248,2026-01-22,CUST-1370,Consumer,Mumbai | West,WELL-402 | Smart Body Composition Scale,  Health & Wellness ,2,55,22,20,9.99,UPI,Delivered,4
+ORD-2026-50256,2026-01-22,CUST-1626,Corporate,Bengaluru | South,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,1,110,50,15,14.99,UPI,Cancelled,
+ORD-2026-50254,2026-01-22,CUST-1714,Consumer,Bengaluru | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,4,95,42,15,0,UPI,Delivered,5
+ORD-2026-50249,2026-01-22,CUST-1438,Consumer,Delhi NCR | North,HOME-203 | Smart LED Desk Lamp,  Home & Office ,4,45,18,10,0,Credit Card,Delivered,5
+ORD-2026-50255,2026-01-22,CUST-1570,Corporate,Chandigarh | North,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,1,140,65,,4.99,UPI,Delivered,5
+ORD-2026-50257,2026-01-22,CUST-1774,Consumer,Ahmedabad | West,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,120,65,10,9.99,  UPI ,Delivered,3
+ORD-2026-50261,2026-01-22,CUST-1574,Consumer,Kolkata | East,ELEC-103 | 4K Ultra HD Webcam,Electronics,4,$85.00,40,25,0,UPI,Delivered,5
+ORD-2026-50252,2026-01-22,CUST-1790,Home Office,Pune | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,20,4.99,UPI,Delivered,4
+ORD-2026-50260,2026-01-22,CUST-1531,Consumer,Kolkata | East,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,2,$110.00,50,15,7.99,UPI,Cancelled,
+ORD-2026-50253,2026-01-22,CUST-1550,Home Office,Kolkata | East,ELEC-103 | 4K Ultra HD Webcam,Electronics,1,$85.00,40,15,9.99,UPI,Delivered,4
+ORD-2026-50258,2026-01-22,CUST-1668,Consumer,Pune | West,ELEC-104 | Portable Bluetooth Speaker,  Electronics ,1,60,28,15,7.99,UPI,Delivered,4
+ORD-2026-50267,2026-01-23,CUST-1587,Corporate,Bengaluru | South,APPR-303 | Compression Gym Activewear Set,  Apparel & Gear ,1,$70.00,28,15,4.99,Cash on Delivery,Returned,1
+ORD-2026-50273,2026-01-23,CUST-1675,Consumer,Pune | West,WELL-402 | Smart Body Composition Scale,Health & Wellness,3,55,22,10,14.99,Cash on Delivery,Delivered,
+ORD-2026-50272,2026-01-23,CUST-1641,Corporate,Bhubaneswar | East,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,2,$120.00,65,20,4.99,UPI,Delivered,4
+ORD-2026-50275,2026-01-23,CUST-1286,Consumer,Delhi NCR | North,ELEC-103 | 4K Ultra HD Webcam,Electronics,2,85,40,15,4.99,UPI,Delivered,3
+ORD-2026-50279,2026-01-23,CUST-1628,consumer,Delhi NCR | North,HOME-201 | Ergonomic Mesh Office Chair,Home & Office,1,250,130,,0,Credit Card,Delivered,3
+ORD-2026-50282,2026-01-23,CUST-1609,Consumer,Jaipur | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,120,65,15,7.99,UPI,Delivered,5
+ORD-2026-50269,2026-01-23,CUST-1779,Corporate,Hyderabad | South,HOME-203 | Smart LED Desk Lamp,Home & Office,3,$45.00,18,20,14.99,Credit Card,Delivered,4
+ORD-2026-50276,2026-01-23,CUST-1169,Consumer,Pune | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,5,$180.00,95,20,0,UPI,Delivered,5
+ORD-2026-50263,2026-01-23,CUST-1595,Corporate,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,electronics,1,$120.00,65,15,4.99,Debit Card,Delivered,5
+ORD-2026-50281,2026-01-23,CUST-1101,  Corporate ,Mumbai | West,HOME-202 | Adjustable Standing Desk Converter,Home & Office,1,160,85,25,0,  Credit Card ,Delivered,4
+ORD-2026-50278,2026-01-23,CUST-1277,Consumer,Delhi NCR | North,HOME-203 | Smart LED Desk Lamp,Home & Office,5,45,18,15,9.99,  UPI ,Delivered,5
+ORD-2026-50266,2026-01-23,CUST-1576,CONSUMER,Delhi NCR | North,HOME-202 | Adjustable Standing Desk Converter,Home & Office,2,160,85,15,9.99,  Credit Card ,Delivered,3
+ORD-2026-50268,2026-01-23,CUST-1738,Home Office,Delhi NCR | North,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,10,14.99,UPI,Delivered,3
+ORD-2026-50280,2026-01-23,CUST-1050,Corporate,Chennai | South,HOME-204 | HEPA Air Purifier Pro,Home & Office,5,$210.00,110,25,4.99,  UPI ,Delivered,4
+ORD-2026-50270,2026-01-23,CUST-1843,Corporate,Mumbai | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,$180.00,95,25,7.99,Credit Card,Delivered,4
+ORD-2026-50264,2026-01-23,CUST-1849,Consumer,Bengaluru | South,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,4,120,65,10,4.99,Debit Card,Delivered,
+ORD-2026-50265,2026-01-23,CUST-1665,Consumer,Hyderabad | South,HOME-203 | Smart LED Desk Lamp,Home & Office,3,45,18,20,0,Credit Card,Returned,1
+ORD-2026-50274,2026-01-23,CUST-1627,Consumer,Delhi NCR | North,APPR-301 | Thermal Winter Running Jacket,  Apparel & Gear ,1,95,42,15,0,UPI,Delivered,5
+ORD-2026-50277,2026-01-23,CUST-1594,Consumer,Jaipur | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,3,$180.00,95,,0,UPI,Delivered,5
+ORD-2026-50266,2026-01-23,CUST-1576,CONSUMER,Delhi NCR | North,HOME-202 | Adjustable Standing Desk Converter,Home & Office,2,160,85,15,9.99,  Credit Card ,Delivered,3
+ORD-2026-50271,2026-01-23,CUST-1053,Corporate,Chennai | South,APPR-303 | Compression Gym Activewear Set,  Apparel & Gear ,2,70,28,25,9.99,UPI,Delivered,4
+ORD-2026-50283,2026-01-24,CUST-1788,Home Office,Hyderabad | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,20,4.99,Debit Card,Delivered,5
+ORD-2026-50295,2026-01-24,CUST-1701,Consumer,Chandigarh | North,WELL-402 | Smart Body Composition Scale,Health & Wellness,5,55,22,15,4.99,CASH ON DELIVERY,Delivered,5
+ORD-2026-50286,2026-01-24,CUST-1130,Home Office,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,120,65,15,0,Credit Card,Delivered,5
+ORD-2026-50291,2026-01-24,CUST-1356,Consumer,Bengaluru | South,WELL-402 | Smart Body Composition Scale,HEALTH & WELLNESS,1,$55.00,22,15,4.99,UPI,Delivered,3
+ORD-2026-50299,2026-01-24,CUST-1343,  Consumer ,Pune | West,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,140,65,15,4.99,Cash on Delivery,Delivered,3
+ORD-2026-50285,2026-01-24,CUST-1117,Home Office,Mumbai | West,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,2,95,42,15,4.99,UPI,Delivered,4
+ORD-2026-50288,2026-01-24,CUST-1069,Consumer,Chandigarh | North,ELEC-103 | 4K Ultra HD Webcam,  Electronics ,1,85,40,20,9.99,Debit Card,Delivered,3
+ORD-2026-50297,2026-01-24,CUST-1295,Consumer,Jaipur | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,$180.00,95,25,14.99,Debit Card,Delivered,5
+ORD-2026-50287,2026-01-24,CUST-1347,Corporate,Hyderabad | South,ELEC-103 | 4K Ultra HD Webcam,Electronics,1,$85.00,40,15,7.99,Debit Card,Delivered,4
+ORD-2026-50300,2026-01-24,CUST-1016,Home Office,Ahmedabad | West,ELEC-104 | Portable Bluetooth Speaker,Electronics,4,$60.00,28,25,0,Credit Card,Delivered,3
+ORD-2026-50293,2026-01-24,CUST-1473,Home Office,Chennai | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,3,$130.00,62,15,14.99,UPI,Delivered,5
+ORD-2026-50284,2026-01-24,CUST-1083,Consumer,Hyderabad | South,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,$140.00,65,25,9.99,UPI,Delivered,5
+ORD-2026-50290,2026-01-24,CUST-1469,Consumer,Bengaluru | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,2,130,62,20,4.99,Net Banking,Cancelled,
+,2026-01-24,CUST-1050,Home Office,Mumbai | West,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,3,70,28,20,4.99,UPI,Delivered,4
+ORD-2026-50298,2026-01-24,CUST-1213,Consumer,Mumbai | West,HOME-204 | HEPA Air Purifier Pro,Home & Office,4,210,110,15,0,Credit Card,Delivered,4
+ORD-2026-50289,2026-01-24,CUST-1149,Consumer,Delhi NCR | North,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,140,65,10,7.99,Credit Card,Delivered,5
+ORD-2026-50296,2026-01-24,CUST-1520,home office,Ahmedabad | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,15,7.99,Credit Card,Delivered,3
+ORD-2026-50294,2026-01-24,CUST-1464,Consumer,Kolkata | East,WELL-403 | Deep Tissue Massage Gun,HEALTH & WELLNESS,1,$140.00,65,10,9.99,UPI,Returned,1
+ORD-2026-50313,2026-01-25,CUST-1133,Consumer,Mumbai | West,ELEC-103 | 4K Ultra HD Webcam,electronics,2,85,40,10,9.99,upi,Delivered,5
+ORD-2026-50302,2026-01-25,CUST-1648,Consumer,Pune | West,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,1,110,50,15,7.99,UPI,Delivered,3
+ORD-2026-50305,2026-01-25,CUST-1483,Consumer,Mumbai | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,5,180,95,10,14.99,UPI,Delivered,3
+ORD-2026-50303,2026-01-25,CUST-1461,Consumer,Hyderabad | South,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,3,$140.00,65,20,0,Cash on Delivery,Delivered,
+ORD-2026-50311,2026-01-25,CUST-1818,Corporate,Bengaluru | South,WELL-403 | Deep Tissue Massage Gun,  Health & Wellness ,3,140,65,15,4.99,UPI,Returned,2
+ORD-2026-50308,2026-01-25,CUST-1557,Consumer,Delhi NCR | North,HOME-202 | Adjustable Standing Desk Converter,HOME & OFFICE,3,160,85,10,14.99,Debit Card,Delivered,4
+ORD-2026-50312,2026-01-25,CUST-1717,Home Office,Hyderabad | South,ELEC-103 | 4K Ultra HD Webcam,Electronics,2,85,40,15,14.99,Debit Card,Delivered,4
+ORD-2026-50306,2026-01-25,CUST-1402,consumer,Ahmedabad | West,HOME-202 | Adjustable Standing Desk Converter,home & office,2,160,85,10,4.99,  Cash on Delivery ,Delivered,4
+ORD-2026-50301,2026-01-25,CUST-1774,Corporate,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,4,130,62,15,7.99,UPI,Delivered,4
+ORD-2026-50304,2026-01-25,CUST-1762,Consumer,Bhubaneswar | East,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,2,120,65,10,7.99,Cash on Delivery,Delivered,
+ORD-2026-50310,2026-01-25,CUST-1068,Consumer,Mumbai | West,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,20,7.99,Debit Card,Delivered,5
+ORD-2026-50307,2026-01-25,CUST-1216,consumer,Jaipur | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,120,65,15,9.99,Cash on Delivery,Delivered,4
+ORD-2026-50309,2026-01-25,CUST-1169,Consumer,Kolkata | East,HOME-204 | HEPA Air Purifier Pro,Home & Office,2,210,110,20,9.99,Cash on Delivery,Delivered,4
+ORD-2026-50314,2026-01-25,CUST-1742,Corporate,Delhi NCR | North,HOME-202 | Adjustable Standing Desk Converter,Home & Office,3,160,85,10,7.99,UPI,Delivered,4
+ORD-2026-50309,2026-01-25,CUST-1169,Consumer,Kolkata | East,HOME-204 | HEPA Air Purifier Pro,Home & Office,2,210,110,20,9.99,Cash on Delivery,Delivered,4
+ORD-2026-50321,2026-01-26,CUST-1367,consumer,Mumbai | West,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,$60.00,28,20,14.99,UPI,Delivered,4
+ORD-2026-50327,2026-01-26,CUST-1397,Home Office,Pune | West,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,1,$110.00,50,10,14.99,UPI,Delivered,5
+ORD-2026-50322,2026-01-26,CUST-1071,Corporate,Ahmedabad | West,WELL-401 | High-Speed Blender & Smoothie Maker,health & wellness,2,130,62,10,4.99,Credit Card,Delivered,4
+ORD-2026-50326,2026-01-26,CUST-1773,  Consumer ,Mumbai | West,ELEC-102 | Smart Fitness Watch Series 5,electronics,1,180,95,15,14.99,UPI,Delivered,3
+ORD-2026-50323,2026-01-26,CUST-1419,Home Office,Bengaluru | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,20,14.99,Credit Card,Delivered,4
+ORD-2026-50315,2026-01-26,CUST-1627,Consumer,Mumbai | West,HOME-204 | HEPA Air Purifier Pro,  Home & Office ,5,$210.00,110,20,4.99,UPI,Delivered,4
+ORD-2026-50318,2026-01-26,CUST-1481,Consumer,Bengaluru | South,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,$60.00,28,10,14.99,UPI,Delivered,4
+ORD-2026-50319,2026-01-26,CUST-1846,Consumer,Delhi NCR | North,WELL-402 | Smart Body Composition Scale,Health & Wellness,2,55,22,20,0,UPI,Delivered,5
+ORD-2026-50324,2026-01-26,CUST-1359,Home Office,Mumbai | West,HOME-202 | Adjustable Standing Desk Converter,Home & Office,2,160,85,,7.99,Credit Card,Delivered,4
+ORD-2026-50325,2026-01-26,CUST-1596,Consumer,Delhi NCR | North,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,10,7.99,UPI,Delivered,4
+ORD-2026-50317,2026-01-26,CUST-1330,Consumer,Chennai | South,WELL-403 | Deep Tissue Massage Gun,health & wellness,2,140,65,10,7.99,Cash on Delivery,Returned,1
+ORD-2026-50316,2026-01-26,CUST-1597,Consumer,Pune | West,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,15,4.99,  UPI ,Cancelled,
+ORD-2026-50320,2026-01-26,CUST-1291,Home Office,Mumbai | West,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,2,140,65,15,7.99,UPI,Delivered,3
+ORD-2026-50332,2026-01-27,CUST-1049,Home Office,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,4,180,95,10,14.99,UPI,Cancelled,
+ORD-2026-50339,2026-01-27,CUST-1084,Consumer,Chandigarh | North,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,$60.00,28,5,7.99,Credit Card,Delivered,5
+ORD-2026-50328,2026-01-27,CUST-1594,Corporate,Chennai | South,WELL-401 | High-Speed Blender & Smoothie Maker,  Health & Wellness ,5,130,62,15,4.99,UPI,Delivered,3
+ORD-2026-50338,2026-01-27,CUST-1142,Corporate,Bengaluru | South,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,60,28,5,0,UPI,Delivered,5
+ORD-2026-50334,2026-01-27,CUST-1625,Consumer,Hyderabad | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,2,70,28,15,14.99,  UPI ,Delivered,4
+ORD-2026-50330,2026-01-27,CUST-1807,Home Office,Bengaluru | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,0,0,Debit Card,Delivered,
+ORD-2026-50336,2026-01-27,CUST-1514,Corporate,Ahmedabad | West,APPR-302 | Waterproof Hiking Backpack 40L,APPAREL & GEAR,4,$110.00,50,0,7.99,Credit Card,Delivered,5
+ORD-2026-50337,2026-01-27,CUST-1570,Home Office,Hyderabad | South,ELEC-104 | Portable Bluetooth Speaker,Electronics,3,60,28,5,9.99,UPI,Delivered,4
+ORD-2026-50335,2026-01-27,CUST-1414,Corporate,Pune | West,HOME-204 | HEPA Air Purifier Pro,Home & Office,1,210,110,10,9.99,  Cash on Delivery ,Delivered,5
+ORD-2026-50333,2026-01-27,CUST-1108,Corporate,Hyderabad | South,WELL-402 | Smart Body Composition Scale,Health & Wellness,3,$55.00,22,0,7.99,Cash on Delivery,Delivered,4
+ORD-2026-50338,2026-01-27,CUST-1142,Corporate,Bengaluru | South,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,60,28,5,0,UPI,Delivered,5
+ORD-2026-50329,2026-01-27,CUST-1742,Consumer,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,electronics,2,180,95,10,14.99,Cash on Delivery,Returned,2
+ORD-2026-50331,2026-01-27,CUST-1055,Consumer,Ahmedabad | West,WELL-402 | Smart Body Composition Scale,Health & Wellness,1,55,22,,0,UPI,Delivered,5
+ORD-2026-50346,2026-01-28,CUST-1158,Corporate,Chennai | South,HOME-204 | HEPA Air Purifier Pro,Home & Office,4,210,110,10,14.99,Credit Card,Delivered,5
+ORD-2026-50347,2026-01-28,CUST-1057,Corporate,Pune | West,HOME-202 | Adjustable Standing Desk Converter,  Home & Office ,2,160,85,,7.99,Credit Card,Returned,2
+ORD-2026-50341,2026-01-28,CUST-1058,Consumer,Jaipur | North,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,0,14.99,Credit Card,Delivered,4
+ORD-2026-50343,2026-01-28,CUST-1844,Corporate,Hyderabad | South,APPR-303 | Compression Gym Activewear Set,apparel & gear,1,70,28,0,9.99,UPI,Delivered,4
+ORD-2026-50342,2026-01-28,CUST-1660,Consumer,Mumbai | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,0,14.99,debit card,Delivered,5
+ORD-2026-50340,2026-01-28,CUST-1084,home office,Delhi NCR | North,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,$120.00,65,0,0,Credit Card,Delivered,5
+ORD-2026-50345,2026-01-28,CUST-1048,Consumer,Bhubaneswar | East,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,2,95,42,0,7.99,UPI,Cancelled,
+ORD-2026-50344,2026-01-28,CUST-1536,consumer,Bengaluru | South,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,1,70,28,20,14.99,Credit Card,Delivered,5
+ORD-2026-50353,2026-01-29,CUST-1733,Consumer,Chennai | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,15,0,UPI,Delivered,4
+ORD-2026-50362,2026-01-29,CUST-1727,Consumer,Bengaluru | South,HOME-202 | Adjustable Standing Desk Converter,Home & Office,3,$160.00,85,5,14.99,UPI,Delivered,4
+ORD-2026-50361,2026-01-29,CUST-1466,Corporate,Chandigarh | North,HOME-202 | Adjustable Standing Desk Converter,HOME & OFFICE,1,160,85,0,0,Net Banking,Delivered,5
+ORD-2026-50355,2026-01-29,CUST-1374,Home Office,Bhubaneswar | East,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,0,9.99,Debit Card,Delivered,5
+ORD-2026-50352,2026-01-29,CUST-1405,Corporate,Chennai | South,APPR-303 | Compression Gym Activewear Set,  Apparel & Gear ,2,70,28,,4.99,Credit Card,Delivered,5
+ORD-2026-50354,2026-01-29,CUST-1698,Consumer,Jaipur | North,WELL-403 | Deep Tissue Massage Gun,health & wellness,2,140,65,15,9.99,UPI,Delivered,4
+ORD-2026-50363,2026-01-29,CUST-1139,Consumer,Mumbai | West,HOME-203 | Smart LED Desk Lamp,Home & Office,2,45,18,15,0,Credit Card,Delivered,3
+ORD-2026-50359,2026-01-29,CUST-1123,Corporate,Kolkata | East,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,95,42,10,0,UPI,Delivered,4
+ORD-2026-50351,2026-01-29,CUST-1261,Consumer,Ahmedabad | West,WELL-402 | Smart Body Composition Scale,Health & Wellness,1,55,22,0,0,UPI,Returned,3
+ORD-2026-50350,2026-01-29,CUST-1735,Consumer,Pune | West,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,5,7.99,UPI,Delivered,5
+ORD-2026-50348,2026-01-29,CUST-1530,Consumer,Hyderabad | South,ELEC-103 | 4K Ultra HD Webcam,  Electronics ,2,$85.00,40,10,9.99,UPI,Delivered,5
+ORD-2026-50358,2026-01-29,CUST-1767,Home Office,Bengaluru | South,WELL-402 | Smart Body Composition Scale,Health & Wellness,1,55,22,0,14.99,UPI,Delivered,5
+ORD-2026-50356,2026-01-29,CUST-1655,  Corporate ,Hyderabad | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,1,$95.00,42,0,0,UPI,Delivered,5
+ORD-2026-50357,2026-01-29,CUST-1752,Home Office,Hyderabad | South,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,1,$140.00,65,15,7.99,Debit Card,Cancelled,
+ORD-2026-50360,2026-01-29,CUST-1336,Consumer,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,0,14.99,Credit Card,Delivered,5
+ORD-2026-50349,2026-01-29,CUST-1625,Consumer,Kolkata | East,ELEC-102 | Smart Fitness Watch Series 5,ELECTRONICS,1,$180.00,95,5,14.99,Credit Card,Delivered,5
+ORD-2026-50371,2026-01-30,CUST-1353,Consumer,Hyderabad | South,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,3,$120.00,65,0,4.99,UPI,Delivered,5
+ORD-2026-50374,2026-01-30,CUST-1641,Consumer,Chandigarh | North,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,1,140,65,15,14.99,Net Banking,Delivered,4
+ORD-2026-50369,2026-01-30,CUST-1066,Consumer,Chennai | South,ELEC-101 | Wireless Noise-Canceling Headphones,Electronics,1,120,65,10,9.99,UPI,Delivered,
+ORD-2026-50364,2026-01-30,CUST-1829,Consumer,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,$180.00,95,0,0,Net Banking,Delivered,4
+ORD-2026-50366,2026-01-30,CUST-1580,Consumer,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,  Electronics ,3,180,95,0,14.99,Credit Card,Returned,2
+ORD-2026-50365,2026-01-30,CUST-1112,Consumer,Delhi NCR | North,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,20,7.99,Debit Card,Delivered,5
+ORD-2026-50370,2026-01-30,CUST-1765,Consumer,Bengaluru | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,2,180,95,5,7.99,upi,Cancelled,
+ORD-2026-50372,2026-01-30,CUST-1556,CORPORATE,Pune | West,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,4,130,62,10,7.99,Credit Card,Delivered,5
+ORD-2026-50367,2026-01-30,CUST-1406,Consumer,Mumbai | West,HOME-202 | Adjustable Standing Desk Converter,Home & Office,3,160,85,5,14.99,Credit Card,Delivered,5
+ORD-2026-50368,2026-01-30,CUST-1593,Corporate,Chennai | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,,4.99,UPI,Delivered,5
+ORD-2026-50377,2026-01-30,CUST-1691,Corporate,Pune | West,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,2,$70.00,28,10,4.99,upi,Delivered,5
+ORD-2026-50376,2026-01-30,CUST-1161,Home Office,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,15,9.99,  Credit Card ,Delivered,4
+ORD-2026-50375,2026-01-30,CUST-1775,Consumer,Hyderabad | South,APPR-301 | Thermal Winter Running Jacket,Apparel & Gear,5,95,42,15,9.99,UPI,Delivered,5
+ORD-2026-50373,2026-01-30,CUST-1309,Corporate,Hyderabad | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,1,180,95,5,14.99,Debit Card,Delivered,5
+ORD-2026-50380,2026-01-31,CUST-1135,Consumer,Delhi NCR | North,APPR-303 | Compression Gym Activewear Set,Apparel & Gear,3,70,28,0,14.99,UPI,Delivered,5
+ORD-2026-50383,2026-01-31,CUST-1513,Consumer,Mumbai | West,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,1,130,62,,4.99,UPI,Delivered,4
+ORD-2026-50378,2026-01-31,CUST-1507,Home Office,Hyderabad | South,ELEC-102 | Smart Fitness Watch Series 5,Electronics,3,180,95,0,7.99,Credit Card,Delivered,5
+ORD-2026-50387,2026-01-31,CUST-1345,Home Office,Jaipur | North,HOME-204 | HEPA Air Purifier Pro,Home & Office,3,210,110,0,7.99,Credit Card,Delivered,4
+ORD-2026-50386,2026-01-31,CUST-1507,Consumer,Hyderabad | South,WELL-401 | High-Speed Blender & Smoothie Maker,Health & Wellness,3,130,62,10,0,Credit Card,Returned,1
+ORD-2026-50381,2026-01-31,CUST-1181,Home Office,Delhi NCR | North,ELEC-104 | Portable Bluetooth Speaker,Electronics,1,60,28,0,9.99,Debit Card,Delivered,5
+ORD-2026-50384,2026-01-31,CUST-1158,consumer,Delhi NCR | North,ELEC-103 | 4K Ultra HD Webcam,Electronics,3,85,40,0,0,UPI,Delivered,4
+ORD-2026-50379,2026-01-31,CUST-1583,Consumer,Jaipur | North,APPR-302 | Waterproof Hiking Backpack 40L,Apparel & Gear,3,110,50,10,9.99,Debit Card,Delivered,5
+ORD-2026-50382,2026-01-31,CUST-1775,HOME OFFICE,Kolkata | East,WELL-403 | Deep Tissue Massage Gun,Health & Wellness,3,140,65,,9.99,UPI,Delivered,3
+ORD-2026-50385,2026-01-31,CUST-1222,Consumer,Chandigarh | North,ELEC-103 | 4K Ultra HD Webcam,Electronics,4,85,40,10,0,UPI,Delivered,3
